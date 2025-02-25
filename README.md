@@ -1,1 +1,1 @@
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lukovskiy541&layout=compact&hide=javascript,cmake,swift,kotlin,css&langs_count=10&cache_seconds=86400)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lukovskiy541&layout=compact&hide=javascript,cmake,swift,kotlin&langs_count=10&cache_seconds=86400)](https://github.com/anuraghazra/github-readme-stats)
